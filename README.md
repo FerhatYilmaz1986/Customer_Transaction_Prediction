@@ -3,3 +3,4 @@
   - The data is anonimyzed, each row containing 200 numerical values identified just with a number.  
   - Target values are imbalanced.  
   - Similar to binary classification problems such as: is a customer satisfied? Will a customer buy this product? Can a customer pay this loan?  
+  - Purpose : Helping customers understand their financial health and identify which products and services might help them achieve their monetary goals
